@@ -1,1 +1,2 @@
 c:\users\matteo\documents\visual studio 2012\Projects\muzzo\muzzo\bin\Debug\muzzo.exe.config
+C:\Users\Matteo\Desktop\hub\primo_repo\muzzo\muzzo\bin\Debug\muzzo.exe.config

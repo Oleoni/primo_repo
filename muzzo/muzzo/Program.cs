@@ -10,6 +10,7 @@ namespace muzzo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ciao marchiori");
         }
     }
 }
